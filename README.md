@@ -1,153 +1,121 @@
-<!--
-  BEFORE PUSHING THIS TO GITHUB, REPLACE:
-  1. YOUR_GITHUB_USERNAME  -> your actual GitHub username (appears ~6 times)
-  2. YOUR-LINKEDIN-USERNAME -> your actual LinkedIn profile slug
-  This README only contains info confirmed from your resume — no invented
-  companies, metrics, hackathons, or skills. Add real ones as you earn them.
--->
-
-<!-- ============ 1. HERO BANNER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kowshik%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Python%20Developer&descAlignY=62&descSize=16" width="100%"/>
-</p>
-
-<!-- ============ 2. TYPING HEADER ============ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist;B.Tech+AI+and+Data+Science+Student;Python+%7C+C%2B%2B+%7C+Problem+Solver;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=KOWSHIK%20K&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Python%20Developer&descAlignY=65&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <a href="mailto:kowshikkumar116@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-2E8B57?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2500&pause=800&color=70A5FD&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;AI+%26+ML+Enthusiast;B.Tech+AI+%26+Data+Science+Student;Python+%7C+C%2B%2B+%7C+Web+Development;Learning+DSA+%7C+ML+%7C+SQL;Always+Learning+%E2%9A%A1+Always+Building" />
 </p>
 
-<!-- ============ 3. CODE-BLOCK ABOUT ME ============ -->
+<p align="center">
+  <a href="mailto:kowshikkumar116@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kowshikkumar116%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Kowshik%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+---
+
+## 👋 About Me
+
 ```python
 class Kowshik:
     def __init__(self):
-        self.name = "Kowshik K"
+        self.name = "KOWSHIK K"
         self.location = "Coimbatore, Tamil Nadu, India"
+        self.college = "Karpagam College of Engineering"
         self.degree = "B.Tech - Artificial Intelligence & Data Science"
-        self.year = "2nd Year (1st Year Completed) | CGPA: 7.59"
-        self.stack = ["Python", "C++", "HTML/CSS"]
-        self.currently_learning = [
-            "Data Structures & Algorithms",
-            "Machine Learning Fundamentals",
-            "Pandas & NumPy",
+        self.year = "2nd Year"
+        self.cgpa = 7.59
+        self.goal = "Data Scientist / AI Engineer"
+
+        self.skills = [
+            "Python",
+            "C++",
+            "HTML",
+            "CSS",
+            "JavaScript",
             "SQL"
         ]
-        self.languages_spoken = ["Tamil (Fluent)", "English (Intermediate)"]
-        self.fun_fact = "Still leveling up my English and my code — both compile fine 😄"
+
+        self.currently_learning = [
+            "Data Structures & Algorithms",
+            "Machine Learning",
+            "Data Science",
+            "Pandas",
+            "NumPy",
+            "SQL",
+            "Web Development"
+        ]
+
+        self.languages = ["Tamil", "English"]
 
     def motto(self):
-        return "Learn it. Build it. Break it. Fix it. Repeat."
+        return "Learn. Build. Break. Fix. Repeat."
 
 
 me = Kowshik()
 print(me.motto())
-```
+🛠️ Tech Stack
+💻 Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,mysql" /> </p>
+⚙️ Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" /> </p>
+📊 GitHub Stats
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true&hide_border=true" width="95%" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" /> </p>
+🚀 Featured Projects
+Project	Tech Stack	Description	Status
+🔐 Python Password Generator	Python	Generates strong passwords using letters, numbers and symbols	✅ Completed
+🍽️ Zomato Restaurant Analysis	Python, Pandas, Matplotlib	Restaurant data cleaning, rating analysis and visual insights	✅ Completed
+📊 Basic EDA Project	Python, Pandas, Matplotlib	Exploratory data analysis using charts and summary statistics	✅ Completed
+🏦 Loan Approval Prediction	Python, Machine Learning	ML model to predict loan approval status	🚧 In Progress
+📱 Instagram Engagement Analysis	Python, Pandas	Analyzes likes, followers, hashtags and engagement strategy	🚧 In Progress
+🧑‍💻 Experience
+<details> <summary><b>🎓 B.Tech Student — Artificial Intelligence & Data Science</b></summary> <br>
 
-<!-- ============ 4. TECH BADGES ============ -->
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-> 📌 Frameworks, cloud, and database tools aren't listed yet — they'll be added here as they're actually learned, not before.
-
-<!-- ============ 5 & 6. GITHUB STATS + TOP LANGUAGES ============ -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<!-- ============ 7. STREAK STATS ============ -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
-<!-- ============ 8. ACTIVITY GRAPH ============ -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
-
-<!-- ============ 9. TROPHY WALL ============ -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-</p>
-
-<!-- ============ 10. EXPERIENCE ============ -->
-### 🧑‍💻 Experience
-
-<details>
-<summary><b>🎓 B.Tech Student — Artificial Intelligence & Data Science</b></summary>
-<br>
-
-**Karpagam College of Engineering, Coimbatore**
-📅 2024 – Present &nbsp;|&nbsp; 📍 Coimbatore, India
-
-- Pursuing B.Tech in AI & Data Science, 1st year completed with a CGPA of 7.59
-- Building foundational programming skills in Python and C++
-- Completed self-paced NPTEL certification course(s) alongside coursework
-- Actively looking for my first internship in Data Science / AI
-
-</details>
-
-> No paid work experience yet — this section will be replaced with real roles as they happen.
-
-<!-- ============ 11. FEATURED PROJECTS ============ -->
-### 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Tech Stack | Description | Status |
-|:---|:---:|:---|:---:|
-| 🔐 **Python Password Generator** | `Python` | Generates secure, randomized passwords combining letters, numbers, and special characters using string handling and loops | ✅ Completed |
-| 🚧 **Project Slot #2** | — | Reserved — let me know if you want your data analysis / ML projects added here | 🔜 Pending details |
-| 🚧 **Project Slot #3** | — | Reserved for next build | 🔜 Coming soon |
-
-</div>
-
-<!-- ============ 12. ACHIEVEMENTS ============ -->
-### 🏆 Achievements & Certifications
-
-<div align="center">
-
-| Category | Details | Status |
-|:---|:---|:---:|
-| 🎓 Certification | NPTEL Certification Course(s) | ✅ Completed |
-| 💻 Competitive Programming | LeetCode / CP profile | — Not started yet |
-| 🏅 Hackathons | — | Open to participating |
-
-</div>
-
-<!-- ============ 13. EDUCATION + CURRENTLY LEARNING + FOOTER ============ -->
-### 🎓 Education
-
-**B.Tech — Artificial Intelligence and Data Science**
 Karpagam College of Engineering, Coimbatore
-1st Year Completed &nbsp;|&nbsp; CGPA: **7.59**
+📅 2024 – 2029
+📍 Coimbatore, India
 
-### 📚 Currently Learning
+Pursuing B.Tech in Artificial Intelligence and Data Science
+Current CGPA: 7.59
+Building strong foundations in Python, C++, Data Science and Machine Learning
+Completed Data Science internship projects
+Learning DSA, ML, SQL and Web Development
+</details>
+🏆 Achievements & Certifications
+Category	Details	Status
+🎓 Certification	NPTEL - Business Fundamentals for Entrepreneurs	✅ Completed
+💻 Internship	Data Science Internship Projects	✅ Completed
+🧠 Learning	DSA, ML, SQL, Data Science	🔥 Ongoing
+🏅 Hackathons	Planning to participate in SIH & college hackathons	🔜 Upcoming
+🎓 Education
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=flat-square)
-![ML](https://img.shields.io/badge/Machine%20Learning%20Basics-009688?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas%20%26%20NumPy-150458?style=flat-square&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+B.Tech — Artificial Intelligence and Data Science
+Karpagam College of Engineering, Coimbatore
 
----
+📅 2024 – 2029
+🎯 CGPA: 7.59
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-</p>
+📚 Currently Learning
+<p align="center"> <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data%20Science-673AB7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Pandas%20%26%20NumPy-150458?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" /> </p>
+🎯 Career Goal
+<p align="center"> <b>My goal is to become a skilled Data Scientist / AI Engineer by building real-world projects, improving problem-solving skills, and learning industry-level tools step by step.</b> </p>
+📌 Focus Areas
+Python Programming
+Data Structures & Algorithms
+Machine Learning Fundamentals
+Data Analysis using Pandas and NumPy
+SQL and Database Basics
+Web Development Basics
+Real-world AI & Data Science Projects
+📈 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Snake animation" /> </p>
+
+⚠️ Snake animation work aaganumna GitHub Actions setup pannanum. Illana intha section remove pannalam.
+
+📫 Connect With Me
+<p align="center"> <a href="mailto:kowshikkumar116@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=140&section=footer" width="100%" /> </p> ``
